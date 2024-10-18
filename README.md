@@ -4,6 +4,11 @@
 
 ### **Steps taken**
 - Data loading and transformation
+    - Hiding of some columns during visualisation such as:
+        - parent zcta
+        - county weights
+        - county_fips_all
+        - timezone
 - Feeature engineering;
     - Creating calculated columns
     - Creating calculated tables
